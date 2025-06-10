@@ -51,9 +51,3 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,html,css,js,c,unity,godot,github&theme=dark" alt="skills" />
 </p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=9B111E&center=true&vCenter=true&width=435&lines=May+your+code+be+sharp+as+a+dagger...;...and+your+bugs+fear+your+wrath+🖤" alt="Typing SVG" />
-</p>
