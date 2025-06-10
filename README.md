@@ -1,3 +1,11 @@
+<h1 align="center">🦇 Welcome, wanderer... 🖤</h1>
+<p align="center">
+  <i>Behind the veil of shadows, you'll find code, games, and a mind that never rests...</i><br>
+  <b>@nythriss</b> | Developer • Streamer • Creator of the Unseen
+</p>
+
+---
+
 ### 🖤 About Me
 
 - 👋 Hi, I’m **@nythriss**
@@ -42,4 +50,10 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,html,css,js,c,unity,godot,github&theme=dark" alt="skills" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=9B111E&center=true&vCenter=true&width=435&lines=May+your+code+be+sharp+as+a+dagger...;...and+your+bugs+fear+your+wrath+🖤" alt="Typing SVG" />
 </p>
